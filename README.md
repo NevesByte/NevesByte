@@ -54,17 +54,16 @@ Minha proposta é direta:
 
 ### BankApp — Ecossistema bancário
 
-- autenticação JWT + segurança  
-- transferências com **idempotência**  
-- **rate limiting + device fingerprint**  
-- compensação distribuída  
-- scheduler em microsserviço  
-- database-per-service  
-- auditoria + risco  
-- observabilidade com tracing  
-
-🔗 https://github.com/NevesByte/BankApp
-
+- Autenticação JWT + Spring Security
+- Comunicação assíncrona via RabbitMQ
+- Database-per-service (PostgreSQL + MySQL)
+- Documentação API-first com Swagger/OpenAPI
+- Testes unitários com JUnit + Mockito
+- Tratamento de erros com exceções de domínio e @RestControllerAdvice
+- Validações robustas com Bean Validation
+- Containerização multi-stage com Docker Compose
+- Microsserviços independentes: login-ms, painel-ms, email-sender-ms
+- https://github.com/NevesByte/BankApp
 ---
 
 ### CriptoGraph — Dashboard de criptomoedas
