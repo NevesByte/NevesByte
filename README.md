@@ -114,10 +114,6 @@ Minha proposta é direta:
 
 ## Estatísticas GitHub
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NevesByte&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevesByte&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=NevesByte&theme=tokyonight&hide_border=true" />
 </div>
 
