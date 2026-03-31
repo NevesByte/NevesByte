@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Victor%20Neves&fontAlign=50&fontAlignY=38&fontSize=50&color=0:0f172a,50:1e3a8a,100:0ea5e9&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=Engenharia+de+Software+com+foco+em+Backend+Java;Microsservi%C3%A7os+%7C+Arquitetura+Distribu%C3%ADda+%7C+Cloud+AWS;Clean+Code+%7C+Observabilidade+%7C+Seguran%C3%A7a+de+APIs;Construindo+projetos+reais+com+mentalidade+de+produto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=Backend+Engineer+%7C+Java+%7C+AWS;Microsservi%C3%A7os+%7C+Arquitetura+Distribu%C3%ADda;Clean+Code+%7C+Observabilidade+%7C+Seguran%C3%A7a;Construindo+sistemas+reais+com+mentalidade+de+produto)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ## Quem sou eu
 
-Sou o **Victor Neves**, desenvolvedor com foco em construir software com padrão profissional: arquitetura bem definida, código limpo, testes, documentação e visão de produto.
+Sou o **Victor Neves**, desenvolvedor focado em backend com Java e arquitetura de sistemas distribuídos.
 
-Minha proposta é simples:  
-**transformar complexidade técnica em sistemas robustos, escaláveis e bonitos de usar.**
+Minha proposta é direta:  
+**construir sistemas escaláveis, seguros e prontos para produção.**
 
 ---
 
@@ -36,69 +36,79 @@ Minha proposta é simples:
 
 ---
 
+## Certificações AWS
+
+<div align="center">
+
+![AWS CLF](https://img.shields.io/badge/AWS-Cloud_Practitioner_(CLF)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate_(SAA)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+</div>
+
+- AWS Certified **Cloud Practitioner (CLF)**  
+- AWS Certified **Solutions Architect – Associate (SAA)**  
+
+---
+
 ## Projetos em destaque
 
-### 1) BankApp (ecossistema bancário completo)
-Projeto com arquitetura de banco digital real, cobrindo ponta a ponta:
+### BankApp — Ecossistema bancário
 
-- autenticação JWT e segurança;
-- transferências e pagamentos com **idempotência**;
-- **rate limiting + device fingerprint**;
-- fluxo de **compensação distribuída**;
-- scheduler real em `payments-ms`;
-- `database-per-service`;
-- trilha de auditoria e análise de risco;
-- observabilidade com tracing (OpenTelemetry);
-- frontend premium React + SASS.
+- autenticação JWT + segurança  
+- transferências com **idempotência**  
+- **rate limiting + device fingerprint**  
+- compensação distribuída  
+- scheduler em microsserviço  
+- database-per-service  
+- auditoria + risco  
+- observabilidade com tracing  
 
-🔗 **Repo:** https://github.com/NevesByte/BankApp
+🔗 https://github.com/NevesByte/BankApp
 
 ---
 
-### 2) CriptoGraph
-Dashboard de análise de criptomoedas com foco em UX e dados:
+### CriptoGraph — Dashboard de criptomoedas
 
-- comparação de ativos;
-- períodos dinâmicos (24h, 7d, 30d, 1y);
-- métricas de volatilidade e drawdown;
-- favoritos, alertas e busca;
-- melhorias fortes para mobile;
-- testes com Vitest.
+- comparação de ativos  
+- períodos dinâmicos  
+- volatilidade e drawdown  
+- favoritos e alertas  
+- mobile optimization  
+- testes com Vitest  
 
-🔗 **Repo:** https://github.com/NevesByte/CriptoGraph
-
----
-
-### 3) AWS SimuLearn – Serverless Projects
-Trilhas práticas com foco em cloud architecture e serverless:
-
-- API Gateway, Lambda, DynamoDB, RDS, S3, CloudFront, IAM, SQS/SNS;
-- fundamentos de segurança, observabilidade e integrações;
-- visão aplicada para cenário real de engenharia em nuvem.
-
-🔗 **Repo:** https://github.com/NevesByte/AWS-SimuLearn-Serverless-Projects
+🔗 https://github.com/NevesByte/CriptoGraph
 
 ---
 
-### 4) Estrutura de Dados (Java)
-Base sólida para entrevistas e engenharia de software:
+### AWS SimuLearn — Serverless
 
-- List, Set, Map, Queue, Stack, Iterator;
-- comparativos práticos entre estruturas;
-- foco em escolha de estrutura por contexto + Big-O.
+- API Gateway, Lambda, DynamoDB  
+- S3, CloudFront, IAM  
+- SQS / SNS  
+- segurança e observabilidade  
 
-🔗 **Repo:** https://github.com/NevesByte/Estrutura-de-Dados
+🔗 https://github.com/NevesByte/AWS-SimuLearn-Serverless-Projects
 
 ---
 
-## Qualidades técnicas que eu priorizo
+### Estrutura de Dados (Java)
 
-- modelagem de domínio e separação clara de responsabilidades;
-- APIs consistentes e documentadas (Swagger/OpenAPI);
-- testes unitários com JUnit + Mockito;
-- mensageria e comunicação assíncrona confiável;
-- código limpo, legível e evolutivo;
-- experiência de usuário moderna no frontend.
+- List, Set, Map, Queue, Stack  
+- foco em Big-O  
+- decisão por contexto  
+
+🔗 https://github.com/NevesByte/Estrutura-de-Dados
+
+---
+
+## Engenharia que eu sigo
+
+- arquitetura limpa  
+- separação de responsabilidades  
+- APIs com OpenAPI  
+- testes com JUnit + Mockito  
+- mensageria confiável  
+- código evolutivo  
 
 ---
 
@@ -122,6 +132,7 @@ Base sólida para entrevistas e engenharia de software:
 <a href="https://www.linkedin.com/in/victor-neves-039504348/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Victor%20Neves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:victorneves596@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-victorneves596%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -131,5 +142,5 @@ Base sólida para entrevistas e engenharia de software:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NevesByte&style=for-the-badge&color=38bdf8" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=NevesByte&style=for-the-badge&color=38bdf8" />
 </div>
