@@ -84,7 +84,8 @@ Minha proposta é direta:
 - API Gateway, Lambda, DynamoDB  
 - S3, CloudFront, IAM  
 - SQS / SNS  
-- segurança e observabilidade  
+- EC2, CloudWatch e muito mais
+- 13 Desafios concluídos  
 
 🔗 https://github.com/NevesByte/AWS-SimuLearn-Serverless-Projects
 
